@@ -1,0 +1,4 @@
+{
+    "typescript.preferences.jsxAttributeCompletionStyle": "braces",
+    "javascript.preferences.jsxAttributeCompletionStyle": "braces"
+}
